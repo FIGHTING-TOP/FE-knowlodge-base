@@ -8,6 +8,7 @@
 欢迎关注我个人公众号
 **爱折腾的王先生**
 
-<img src="https://github.com/FIGHTING-TOP/FE-knowlodge-base/raw/master/assets/img/pubNo.jpg">
+
+<img width="100px" src="https://user-images.githubusercontent.com/22701388/96853436-f0088800-148c-11eb-8337-fc0121fbb2f4.jpg">
 
 关注有福利哦~
