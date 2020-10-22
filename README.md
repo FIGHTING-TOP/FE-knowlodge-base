@@ -7,4 +7,5 @@
 
 欢迎关注我个人公众号
 **爱折腾的王先生**
-![](./assets/img/pubNo.jpg)
+![](/assets/img/pubNo.jpg)
+关注有福利哦~
