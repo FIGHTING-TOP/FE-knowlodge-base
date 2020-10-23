@@ -2,7 +2,8 @@
 大前端知识库，持续更新中...
 
 - [js跨域及解决方案](https://github.com/FIGHTING-TOP/FE-knowlodge-base/issues/1#issue-727185536)
-
+- [HTTP1.0，HTTP1.1，HTTP2.0](https://github.com/FIGHTING-TOP/FE-knowlodge-base/issues/2)
+- [HTTP和HTTPS](https://github.com/FIGHTING-TOP/FE-knowlodge-base/issues/3)
 
 
 
