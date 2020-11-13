@@ -3,6 +3,10 @@
 
 ## 单词部分
 
+`isolation` *n* 隔离
+
+`interact` *v* 相互作用 *n* `interaction`
+
 `ancestor` *n* 祖先
 
 `appropriate` *adj* 合适的，适当地
