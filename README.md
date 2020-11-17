@@ -14,6 +14,6 @@
 <br><br><br><br><br><br>
 欢迎关注一个坚持**只推送优质文章**的公众号<br>
 **爱折腾的王先生**<br>
-<img width="100px" src="https://user-images.githubusercontent.com/22701388/96853436-f0088800-148c-11eb-8337-fc0121fbb2f4.jpg"><br>
+<img width="100px" style="border-radius:5px" src="https://user-images.githubusercontent.com/22701388/96853436-f0088800-148c-11eb-8337-fc0121fbb2f4.jpg"><br>
 <!-- <img width="100px"  src="https://blog.fightingtop.cn/img/pubNo.jpg"><br> -->
 关注有福利哦~
