@@ -3,6 +3,10 @@
 
 ## 单词部分
 
+`metrics` *n* 指标
+
+`compose` *v* 撰写，组成，构成  *n* `composing`，`composition`
+
 `isolation` *n* 隔离
 
 `interact` *v* 相互作用 *n* `interaction`
