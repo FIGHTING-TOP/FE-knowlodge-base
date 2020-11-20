@@ -3,6 +3,8 @@
 
 ## 单词部分
 
+`emulate` *v* 仿真
+
 `metrics` *n* 指标
 
 `compose` *v* 撰写，组成，构成  *n* `composing`，`composition`
@@ -71,3 +73,8 @@
 `CSRF`: cross site request forgery
 `XSS`: cross-site scripting
 `PWA`: progressive web app
+`HTTP`: hypertext transfer protocol
+`SSL`: secure socket layer
+`TLS`: transport layer security
+
+
