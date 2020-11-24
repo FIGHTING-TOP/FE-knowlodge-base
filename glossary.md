@@ -83,9 +83,11 @@
 `SPA`: single page application
 `SEO`: search engine optimization
 `SSR`: server side rendering
+`SSR`: shadowsocksR
 `VPN`: virtual private network
 `SS`: shadowsocks
-`SSR`: shadowsocksR
+`FPS`: frame per second
+
 
 
 
