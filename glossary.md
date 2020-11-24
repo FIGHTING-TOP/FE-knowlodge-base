@@ -3,6 +3,10 @@
 
 ## 单词部分
 
+`essential` *v* 必要的，必须的
+
+`performance` *n* 性能；行为；表演
+
 `emulate` *v* 仿真
 
 `metrics` *n* 指标
@@ -76,5 +80,12 @@
 `HTTP`: hypertext transfer protocol
 `SSL`: secure socket layer
 `TLS`: transport layer security
+`SPA`: single page application
+`SEO`: search engine optimization
+`SSR`: server side rendering
+`VPN`: virtual private network
+`SS`: shadowsocks
+`SSR`: shadowsocksR
+
 
 
