@@ -3,6 +3,8 @@
 
 ## 单词部分
 
+`ancestor` *n* 祖先
+
 `essential` *v* 必要的，必须的
 
 `performance` *n* 性能；行为；表演
