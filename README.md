@@ -5,9 +5,10 @@
 - [HTTP1.0，HTTP1.1，HTTP2.0](https://github.com/FIGHTING-TOP/FE-knowlodge-base/issues/2)
 - [HTTP和HTTPS](https://github.com/FIGHTING-TOP/FE-knowlodge-base/issues/3)
 - [JavaScript中的函数柯里化](https://github.com/FIGHTING-TOP/FE-knowlodge-base/issues/4)
-- [计算机工具集](https://github.com/FIGHTING-TOP/FE-knowlodge-base/issues/5)
 - [探索浏览器对于HTML的渲染原理（过程）](https://github.com/FIGHTING-TOP/FE-knowlodge-base/issues/6)
 
+
+- [计算机工具集](https://github.com/FIGHTING-TOP/FE-knowlodge-base/issues/5)
 
 
 
