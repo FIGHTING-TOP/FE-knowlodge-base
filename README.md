@@ -8,6 +8,7 @@
 - [HTTP和HTTPS](https://github.com/FIGHTING-TOP/FE-knowlodge-base/issues/3)
 - [JavaScript中的函数柯里化](https://github.com/FIGHTING-TOP/FE-knowlodge-base/issues/4)
 - [探索浏览器对于HTML的渲染原理（过程）](https://github.com/FIGHTING-TOP/FE-knowlodge-base/issues/6)
+- [探索vue diff算法](https://github.com/FIGHTING-TOP/FE-knowlodge-base/issues/7)
 
 
 
