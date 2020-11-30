@@ -89,6 +89,7 @@
 `VPN`: virtual private network
 `SS`: shadowsocks
 `FPS`: frame per second
+`AST`: abstract syntax tree
 
 
 
