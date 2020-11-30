@@ -90,6 +90,12 @@
 `SS`: shadowsocks
 `FPS`: frame per second
 `AST`: abstract syntax tree
+`AMD`: asynchronous module definition
+`CMD`: common module definition
+`cjs`: common js
+`UMD`: universal module definition
+`ESM`: ECMA script module
+
 
 
 
