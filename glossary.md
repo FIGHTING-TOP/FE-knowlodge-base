@@ -78,6 +78,7 @@
 
 `CSRF`: cross site request forgery
 `XSS`: cross-site scripting
+`CSP`: content security policy
 `PWA`: progressive web app
 `HTTP`: hypertext transfer protocol
 `SSL`: secure socket layer
