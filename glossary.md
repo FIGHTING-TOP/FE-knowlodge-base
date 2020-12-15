@@ -3,6 +3,8 @@
 
 ## 单词部分
 
+`tenant` *n* 承租人，房客
+
 `ancestor` *n* 祖先
 
 `essential` *v* 必要的，必须的
