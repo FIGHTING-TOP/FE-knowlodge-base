@@ -100,6 +100,7 @@
 `cjs`: common js
 `UMD`: universal module definition
 `ESM`: ECMA script module
+`JWT`: JSON web token
 
 
 
