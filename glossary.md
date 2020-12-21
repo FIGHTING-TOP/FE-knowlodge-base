@@ -3,6 +3,8 @@
 
 ## 单词部分
 
+`campus` *n* 校园
+
 `tenant` *n* 承租人，房客
 
 `ancestor` *n* 祖先
