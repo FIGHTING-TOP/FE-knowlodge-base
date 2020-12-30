@@ -3,6 +3,9 @@
 
 ## 单词部分
 
+
+`thickness` *n* 厚度
+
 `campus` *n* 校园
 
 `tenant` *n* 承租人，房客
