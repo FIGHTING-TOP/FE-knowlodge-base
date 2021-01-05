@@ -1,7 +1,6 @@
 # FE-knowlodge-base
 大前端知识库，持续更新中...
 
-
 ## 涨知识
 - [js跨域及解决方案](https://github.com/FIGHTING-TOP/FE-knowlodge-base/issues/1)
 - [HTTP1.0，HTTP1.1，HTTP2.0、HTTP3](https://github.com/FIGHTING-TOP/FE-knowlodge-base/issues/2)
@@ -10,10 +9,11 @@
 - [探索浏览器对于HTML的渲染原理（过程）](https://github.com/FIGHTING-TOP/FE-knowlodge-base/issues/6)
 - [探索vue diff算法](https://github.com/FIGHTING-TOP/FE-knowlodge-base/issues/7)
 
-
-
 ## 百宝箱
 - [计算机工具集](https://github.com/FIGHTING-TOP/FE-knowlodge-base/issues/5)
+
+## 前端问题经典解答整理
+- [为什么 Vue 中不要用 index 作为 key？（diff 算法详解）](https://github.com/sl1673495/blogs/issues/39)
 
 
 
