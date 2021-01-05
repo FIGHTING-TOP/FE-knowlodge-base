@@ -13,7 +13,7 @@
 - [计算机工具集](https://github.com/FIGHTING-TOP/FE-knowlodge-base/issues/5)
 
 ## 前端问题经典解答整理
-- [为什么 Vue 中不要用 index 作为 key？（diff 算法详解）](https://github.com/sl1673495/blogs/issues/39)
+- [为什么 Vue 中不要用 index 作为 key？（diff 算法详解）](https://juejin.cn/post/6844904113587634184#heading-14)
 
 
 
