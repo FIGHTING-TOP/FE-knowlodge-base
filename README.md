@@ -14,6 +14,8 @@
 
 ## 前端问题经典解答整理
 - [为什么 Vue 中不要用 index 作为 key？（diff 算法详解）](https://juejin.cn/post/6844904113587634184#heading-14)
+- [移动端web页面适配方案](https://segmentfault.com/a/1190000008767416)
+
 
 
 
