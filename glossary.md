@@ -104,6 +104,8 @@
 `UMD`: universal module definition
 `ESM`: ECMA script module
 `JWT`: JSON web token
+`BFC`: block format context
+`IIFE`: immediately invoke function expression
 
 
 
