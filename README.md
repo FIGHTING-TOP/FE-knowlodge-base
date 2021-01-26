@@ -8,6 +8,7 @@
 - [JavaScript中的函数柯里化](https://github.com/FIGHTING-TOP/FE-knowlodge-base/issues/4)
 - [探索浏览器对于HTML的渲染原理（过程）](https://github.com/FIGHTING-TOP/FE-knowlodge-base/issues/6)
 - [探索vue diff算法](https://github.com/FIGHTING-TOP/FE-knowlodge-base/issues/7)
+- [JavaScript设计模式](https://github.com/FIGHTING-TOP/FE-knowlodge-base/issues/8)
 
 ## 百宝箱
 - [计算机工具集](https://github.com/FIGHTING-TOP/FE-knowlodge-base/issues/5)
