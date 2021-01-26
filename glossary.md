@@ -4,6 +4,8 @@
 ## 单词部分
 
 
+`composition` *n* 组成，成分
+
 `thickness` *n* 厚度
 
 `campus` *n* 校园
