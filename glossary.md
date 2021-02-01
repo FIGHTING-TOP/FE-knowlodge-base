@@ -3,6 +3,8 @@
 
 ## 单词部分
 
+`decline` *v* 下降，拒绝
+
 `intersection` *n* 相交，交叉
 
 `composition` *n* 组成，成分
