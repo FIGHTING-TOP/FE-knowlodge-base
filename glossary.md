@@ -3,6 +3,10 @@
 
 ## 单词部分
 
+circular
+
+`circular` *adj* 圆的 *n* 通知
+
 `decline` *v* 下降，拒绝
 
 `intersection` *n* 相交，交叉
