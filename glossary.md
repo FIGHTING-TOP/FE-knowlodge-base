@@ -3,7 +3,7 @@
 
 ## 单词部分
 
-circular
+`emulate` *v* 仿真
 
 `circular` *adj* 圆的 *n* 通知
 
