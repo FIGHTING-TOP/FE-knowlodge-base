@@ -3,6 +3,10 @@
 
 ## 单词部分
 
+`primitive` *adj* 原始
+
+`sand` *n* 沙子，砂土
+
 `emulate` *v* 仿真
 
 `circular` *adj* 圆的 *n* 通知
