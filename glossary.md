@@ -3,6 +3,8 @@
 
 ## 单词部分
 
+`assembly` *n* 部件；装配
+
 `primitive` *adj* 原始
 
 `sand` *n* 沙子，砂土
