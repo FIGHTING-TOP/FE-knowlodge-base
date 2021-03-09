@@ -3,6 +3,10 @@
 
 ## 单词部分
 
+`clinical` *adj* 临床的
+
+`maintain` *v* 维持，保持，维护
+
 `assembly` *n* 部件；装配
 
 `primitive` *adj* 原始
