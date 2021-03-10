@@ -3,6 +3,8 @@
 
 ## 单词部分
 
+`frequently` *adv* 经常地，频繁地
+
 `clinical` *adj* 临床的
 
 `maintain` *v* 维持，保持，维护
