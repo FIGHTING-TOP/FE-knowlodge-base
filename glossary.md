@@ -3,6 +3,8 @@
 
 ## 单词部分
 
+`seal` *v* 密封，封；*n* 印章，海豹
+
 `frequently` *adv* 经常地，频繁地
 
 `clinical` *adj* 临床的
