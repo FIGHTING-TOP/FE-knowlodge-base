@@ -3,6 +3,8 @@
 
 ## 单词部分
 
+`optimal` *adj* 最佳的
+
 `accumulator` *n* 累加器
 
 `seal` *v* 密封，封；*n* 印章，海豹
