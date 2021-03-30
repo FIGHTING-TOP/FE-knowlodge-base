@@ -22,6 +22,8 @@
 
 
 ##### 经典解答整理
+- [为什么 Vue 中不要用 index 作为 key？（diff 算法详解）](https://juejin.cn/post/6844904113587634184#heading-14)
+- [移动端web页面适配方案](https://segmentfault.com/a/1190000008767416)
 - [节流和防抖](https://juejin.cn/post/6844903618827517965)
 - [js模块循环引用](https://blog.csdn.net/zl_best/article/details/77962686?utm_source=blogxgwz25)
 - [js模块循环引用](https://segmentfault.com/a/1190000014318751)
