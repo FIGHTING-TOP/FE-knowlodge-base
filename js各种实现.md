@@ -79,7 +79,43 @@ function output(){
 }
 sleep(output,1000);
 
+// 实现trim
+String.prototype._trim = function () {
+    return this.replace(/^\s+|\s+$/g, '')
+}
 
+// 实现柯里化 sum(3)(4)(5),,,(n)()
+function sum(a) {
+    return function (b) {
+        if (b) {
+            return sum(a + b)
+        }
+        return a
+    }
+}
+
+// 实现reduce
+Array.prototype._reduce = function (fn, a) {
+    var acc = a
+    for (var i of this) {
+        acc = fn(acc, i)
+    }
+    return acc
+}
+
+// 实现斐波那契数列
+const fib = n => n > 1 ? fib(n - 2) + fib(n - 1) : n
+
+function fib2(n) {
+    if (n < 1) { return 0; } else if (n == 1 || n == 2) { return 1; }
+    let one = 0, two = 1, temporary = 1
+    for (let i = 3; i <= n; i++) {
+        temporary = one + two
+        one  = two
+        two = temporary
+    }
+    return temporary;
+}
 
 
 ```
