@@ -198,4 +198,33 @@ function throttle(fn, wait) {
     }
 }
 
+// 实现一个debounce
+function debounce(cb,delay){
+    var timer;
+    return function(){
+        var args = Array.prototype.slicec.call(arguments,1)
+        if(timer){
+            clearTimeout(timer)
+        }
+        timer = setTimeout(function(){
+            cb.apply(this,args)
+        },delay)
+    }
+}
+
+
+// race
+function race(arr){
+    if(Array.isArray(arr)){
+        return new Promise(function(resolve,reject){
+            for(let item of arr){
+                Promise.resolve(item).then(resolve).catch(reject)
+            }
+        })
+    }else{
+        throw Error('')
+    }
+    
+}
+
 ```
