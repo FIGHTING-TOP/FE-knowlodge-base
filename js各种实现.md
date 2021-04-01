@@ -117,5 +117,85 @@ function fib2(n) {
     return temporary;
 }
 
+// 实现promise.all
+function promise_all(arr) {
+    return new Promise((resolve, reject) => {
+        if (Array.isArray(arr)) {
+            let count, res = []
+            for (let i = 0; i < arr.length; i++) {
+                Promise.resolve(p).then((r) => {
+                    res[i] = r
+                    count++
+                    if (count === arr.length) {
+                        resolve(res)
+                    }
+                }).catch((e) => {
+                    reject(e)
+                })
+            }
+        } else {
+            reject(TypeError('not a array'))
+        }
+    })
+}
+
+
+// 实现一个EventBus
+class EventBus {
+    constructor() {
+        this.events = Object.create(null)
+    }
+    $on(name, fn) {
+        if (!this.events[name]) {
+            this.events[name] = []
+        }
+        this.events[name].push(fn)
+    }
+    $off(name, fn) {
+        if (fn) {
+            if (this.$events[name]) {
+                this.$events[name] = this.$events[name].filter(fun => fun !== fn)
+            }
+        } else {
+            delete this.$events[name]
+        }
+    }
+    $emit(name, ...args) {
+        if (name && this.$events[name]) {
+            for (let fn of this.$events[name]) {
+                fn.apply(this, args)
+            }
+        }
+    }
+    $once(name, fn) {
+        let fun = (...args) => {
+            fn.apply(this, args)
+            this.$off(name, fn)
+        }
+        this.$on(name, fun)
+    }
+}
+
+// 实现一个throttle
+function throttle(fn, wait) {
+    let timer, start = Date.now()
+    return function () {
+        let now = Date.now(), context = this, args = arguments
+        if (now - start < wait) {
+            if (!timer) {
+                timer = setTimeout(() => {
+                    fn.apply(context, args)
+                    timer = null
+                    start = Date.now()
+                }, wait)
+            }
+        } else {
+            clearTimeout(timer)
+            fn.apply(context, args)
+            timer = null
+            start = now
+        }
+    }
+}
 
 ```
