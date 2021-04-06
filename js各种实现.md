@@ -262,4 +262,26 @@ function cMaker(t){
     }
 }
 
+
+
+// 实现一个 requestAnimationFrame
+// function deal(){
+//     requestAnimationFrame(deal)
+// }
+// requestAnimationFrame(deal)
+
+var start = 0
+function requestAnimationFrame(handler){
+    var gap = 1000 / 60
+    var now = Date.now()
+    var delay = Math.max(0, gap - (now - start))
+
+    var id = setTimeout(function(){
+        handler(now + delay)
+    }, delay)
+    start = now + delay
+    return id
+}
+
+
 ```
