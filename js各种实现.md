@@ -134,7 +134,7 @@ function promise_all(arr) {
                 })
             }
         } else {
-            reject(TypeError('not a array'))
+            reject(TypeError(''))
         }
     })
 }
@@ -199,10 +199,10 @@ function throttle(fn, wait) {
 }
 
 // 实现一个debounce
-function debounce(cb,delay){
+function debounce(cb, delay){
     var timer;
     return function(){
-        var args = Array.prototype.slicec.call(arguments,1)
+        var args = Array.prototype.slice.call(arguments,1)
         if(timer){
             clearTimeout(timer)
         }
@@ -213,18 +213,53 @@ function debounce(cb,delay){
 }
 
 
-// race
+// Promise.race
 function race(arr){
-    if(Array.isArray(arr)){
-        return new Promise(function(resolve,reject){
+    return new Promise(function(resolve, reject){
+        if(Array.isArray(arr)){
             for(let item of arr){
                 Promise.resolve(item).then(resolve).catch(reject)
             }
-        })
+        }else{
+            reject(TypeError(''))
+        }
+    })
+}
+
+// Promise.allSettled
+function allSettled(arr){
+    return new Promise((resolve, reject) =>{
+        if(Array.isArray(arr)){
+            var res = [], c = 0
+            for(let i = 0; i < arr.length; i++){
+                arr[i].then(r =>{
+                    res[i] = {status: 'fulfiled',value:r}
+                    dealResult()
+                }).catch(e =>{
+                    res[i] = {status: 'rejected',value:e}
+                    dealResult()
+                })
+            }
+            function dealResult(){
+                if(++c === arr.length){
+                    resolve(res)
+                }
+            }
+        }else{
+            reject(TypeError(''))
+        }
+    })
+}
+
+// 实现一个方法随机生成一个合法的css颜色值 如 '#c1c1c1' 或者 rgba()
+function cMaker(t){
+    if(t){
+        var a = () => parseInt(Math.ceil(Math.random()*16)).toString(16)
+        return `#${a()}${a()}${a()}${a()}${a()}${a()}`
     }else{
-        throw Error('')
+        var a = () => parseInt(Math.random() * 255)
+        return `rgba(${a()},${a()},${a()},1)`
     }
-    
 }
 
 ```
