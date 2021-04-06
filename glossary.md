@@ -3,6 +3,8 @@
 
 ## 单词部分
 
+`facilitate` *v* 促进
+
 `discard` *v* 丢弃；废弃；抛弃；弃
 
 `optimal` *adj* 最佳的
