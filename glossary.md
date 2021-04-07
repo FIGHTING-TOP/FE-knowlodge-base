@@ -3,6 +3,9 @@
 
 ## 单词部分
 
+
+`swap` *v* 交换，互换；*同义词 exchange*
+
 `facilitate` *v* 促进
 
 `discard` *v* 丢弃；废弃；抛弃；弃
