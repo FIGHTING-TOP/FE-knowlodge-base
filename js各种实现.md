@@ -254,10 +254,10 @@ function allSettled(arr){
 // 实现一个方法随机生成一个合法的css颜色值 如 '#c1c1c1' 或者 rgba()
 function cMaker(t){
     if(t){
-        var a = () => parseInt(Math.ceil(Math.random()*16)).toString(16)
+        var a = () => Math.floor(Math.random()*16).toString(16)
         return `#${a()}${a()}${a()}${a()}${a()}${a()}`
     }else{
-        var a = () => parseInt(Math.random() * 255)
+        var a = () => Math.ceil(Math.random() * 255)
         return `rgba(${a()},${a()},${a()},1)`
     }
 }
