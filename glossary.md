@@ -4,6 +4,10 @@
 ## 单词部分
 
 
+`via` *prep* 通过 *同 by,through*
+
+`awesome` *adj* 惊人的 *同义词 amazing*
+
 `swap` *v* 交换，互换；*同义词 exchange*
 
 `facilitate` *v* 促进
