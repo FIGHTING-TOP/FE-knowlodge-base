@@ -3,6 +3,7 @@
 
 ## 单词部分
 
+`algorithm` *n* 算法
 
 `via` *prep* 通过 *同 by,through*
 
