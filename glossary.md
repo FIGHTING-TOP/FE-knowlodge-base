@@ -3,6 +3,10 @@
 
 ## 单词部分
 
+`particular` *adj* 特定，特别，特殊，具体
+
+`polygon` *n* 多边形
+
 `dental` *adj* 牙科的
 
 `algorithm` *n* 算法
