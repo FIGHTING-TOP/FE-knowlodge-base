@@ -3,6 +3,8 @@
 
 ## 单词部分
 
+`dental` *adj* 牙科的
+
 `algorithm` *n* 算法
 
 `via` *prep* 通过 *同 by,through*
