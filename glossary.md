@@ -3,6 +3,8 @@
 
 ## 单词部分
 
+`matrix` *n* 矩阵
+
 `intensity` *n* 强度，烈度，亮度
 
 `particular` *adj* 特定，特别，特殊，具体
