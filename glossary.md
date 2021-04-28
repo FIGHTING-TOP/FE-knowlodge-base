@@ -2,6 +2,9 @@
 
 
 ## 单词部分
+
+`diagram` *n* 图表，图解
+
 `phase` *n* 阶段，时期
 
 `matrix` *n* 矩阵
