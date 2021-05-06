@@ -3,6 +3,12 @@
 
 ## 单词部分
 
+`tuple` *n* 元组
+
+`scalar` *n* 标量
+
+`tensor` *n* 张量
+
 `diagram` *n* 图表，图解
 
 `phase` *n* 阶段，时期
