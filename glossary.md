@@ -3,6 +3,10 @@
 
 ## 单词部分
 
+`threshold` *n* 临界点；阈，门槛
+
+`glance` *v* 扫视
+
 `tuple` *n* 元组
 
 `scalar` *n* 标量
