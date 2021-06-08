@@ -9,6 +9,7 @@
 - [探索浏览器对于HTML的渲染原理（过程）](https://github.com/FIGHTING-TOP/FE-knowlodge-base/issues/6)
 - [探索vue diff算法](https://github.com/FIGHTING-TOP/FE-knowlodge-base/issues/7)
 - [JavaScript设计模式](https://github.com/FIGHTING-TOP/FE-knowlodge-base/issues/8)
+- [js的常见方法实现](https://github.com/FIGHTING-TOP/FE-knowlodge-base/blob/main/js%E5%90%84%E7%A7%8D%E5%AE%9E%E7%8E%B0.md)
 
 ## 百宝箱
 - [计算机工具集](https://github.com/FIGHTING-TOP/FE-knowlodge-base/issues/5)
