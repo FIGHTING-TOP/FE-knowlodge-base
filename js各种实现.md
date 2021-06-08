@@ -31,7 +31,7 @@ function* _flat(arr, depth){
     if(depth === undefined)depth = 1
     for(let item of arr){
         if(Array.isArray(item) && depth > 0){
-            yield * flat(item, depth - 1)
+            yield * _flat(item, depth - 1)
         }else{
             yield item
         }
