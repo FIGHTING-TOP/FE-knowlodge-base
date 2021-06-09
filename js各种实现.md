@@ -180,7 +180,7 @@ class EventBus {
 function throttle(fn, wait) {
     let timer, start = Date.now()
     return function () {
-        let now = Date.now(), context = this, args = arguments
+        let now = Date.now(), context = this, args = [].slice.call(arguments)
         if (now - start < wait) {
             if (!timer) {
                 timer = setTimeout(() => {
@@ -215,15 +215,17 @@ function debounce(cb, delay){
 
 // Promise.race
 function race(arr){
-    return new Promise(function(resolve, reject){
-        if(Array.isArray(arr)){
-            for(let item of arr){
-                Promise.resolve(item).then(resolve).catch(reject)
+    if(Array.isArray(arr)){
+        return new Promise(function(resolve, reject){
+            if(Array.isArray(arr)){
+                for(let item of arr){
+                    Promise.resolve(item).then(resolve).catch(reject)
+                }
+            }else{
+                reject(TypeError(''))
             }
-        }else{
-            reject(TypeError(''))
-        }
-    })
+        })
+    }
 }
 
 // Promise.allSettled
