@@ -3,6 +3,10 @@
 
 ## 单词部分
 
+`fragment` *n* 片段，碎片
+
+`malicious` *adj* 恶意的，恶毒的
+
 `threshold` *n* 临界点；阈，门槛
 
 `glance` *v* 扫视
