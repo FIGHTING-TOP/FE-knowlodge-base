@@ -3,6 +3,8 @@
 
 ## 单词部分
 
+`proposal` *n* 提议，议案
+
 `fragment` *n* 片段，碎片
 
 `malicious` *adj* 恶意的，恶毒的
