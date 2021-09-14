@@ -3,6 +3,8 @@
 
 ## 单词部分
 
+`enhance` *v* 提高，同`improve`
+
 `proposal` *n* 提议，议案
 
 `fragment` *n* 片段，碎片
