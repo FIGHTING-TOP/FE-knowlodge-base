@@ -3,6 +3,8 @@
 
 ## 单词部分
 
+`integrate` *v* 整合，集成，使一体化；*n*  `integration`
+
 `enhance` *v* 提高，同`improve`
 
 `proposal` *n* 提议，议案
